@@ -1,4 +1,4 @@
-## Welcome to my github repos
+# Welcome to my github repos
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=800080&width=435&lines=Hi%2C+I'm+Haopeng;Full+Stack+Developer;Always+learning+new+things;UPC+Student)](https://git.io/typing-svg)
 
@@ -7,3 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haopeng138/Haopeng138/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haopeng138/Haopeng138/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Skill chart
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=haopeng138" alt="" >
